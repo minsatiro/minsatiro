@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao seu perfil 💙
 
-<!--
-**minsatiro/minsatiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Yasmin Satiro
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem Java Script
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## Você entrar em contato comigo 📧
+
+  00001099879413sp@al.educacao.sp.gov.br
+
+  @min_satiro
+
+![](https://media.tenor.com/KzQJQfTS6XUAAAAM/winnie-the-pooh-kiss.gif)
